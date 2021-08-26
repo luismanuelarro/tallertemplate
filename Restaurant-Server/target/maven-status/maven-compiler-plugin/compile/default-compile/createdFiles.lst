@@ -1,0 +1,10 @@
+co\unicauca\restaurant\server\access\IMainDishRepository.class
+co\unicauca\restaurant\server\access\CustomerRepositoryImplMysql.class
+co\unicauca\restaurant\server\access\MainDishRepositoryImplArrays.class
+co\unicauca\restaurant\server\app\RestaurantApplication.class
+co\unicauca\restaurant\server\access\Factory.class
+co\unicauca\restaurant\server\domain\services\CustomerService.class
+co\unicauca\restaurant\server\access\CustomerRepositoryImplArrays.class
+co\unicauca\restaurant\server\domain\services\MainDishService.class
+co\unicauca\restaurant\server\access\ICustomerRepository.class
+co\unicauca\restaurant\server\infra\ServerSocketRestaurant.class
